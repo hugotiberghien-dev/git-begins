@@ -8,3 +8,12 @@ git add .
 git commit -m "message"
 git push
 git pull
+
+
+Ajoute à la fin du fichier :
+```
+Créer une branche :
+git branch <nom-de-la-branche>
+
+Changer de branche :
+git checkout <nom-de-la-branche>
